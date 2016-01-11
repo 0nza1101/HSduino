@@ -3,7 +3,6 @@
 #include <Adafruit_TFTLCD.h> // Hardware-specific library
 #include <TouchScreen.h>
 
-
 #define LCD_CS A3 
 #define LCD_CD A2
 #define LCD_WR A1
