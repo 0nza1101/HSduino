@@ -310,7 +310,7 @@ void mainMenu(void){
 
   tft.setCursor(35, tft.height()-10);
   tft.setTextSize(1);
-  tft.print("DoneGames Open Source project");
+  tft.print("Made by Jordan '0nza' N.");
   
   //Touch screen declaration
   TSPoint p = ts.getPoint();
